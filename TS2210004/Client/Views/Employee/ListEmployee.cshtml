@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Client.Models.Employee>
+
+@{
+    ViewData["Title"] = "ListEmployee";
+}
+
+<h1>ListEmployee</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.EmployeeID }) 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

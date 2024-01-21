@@ -1,0 +1,172 @@
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\appsettings.Development.json
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\appsettings.json
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.exe
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.deps.json
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.runtimeconfig.json
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.pdb
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Azure.Core.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Azure.Identity.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Humanizer.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.CodeDom.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.csproj.AssemblyReference.cache
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.AssemblyInfoInputs.cache
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.AssemblyInfo.cs
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.csproj.CoreCompileInputs.cache
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.MvcApplicationPartsAssemblyInfo.cs
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.MvcApplicationPartsAssemblyInfo.cache
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets\msbuild.Day2_Demo3Table.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets\msbuild.build.Day2_Demo3Table.props
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Day2_Demo3Table.props
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Day2_Demo3Table.props
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets.build.json
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets.development.json
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\scopedcss\bundle\Day2_Demo3Table.styles.css
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.csproj.CopyComplete
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\refint\Day2_Demo3Table.dll
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.pdb
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.genruntimeconfig.cache
+D:\Teaching\Aptech\7023\Term3\demo\T1.2210.A1\demo DMAWS\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\ref\Day2_Demo3Table.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\appsettings.json
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.exe
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.deps.json
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.runtimeconfig.json
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Day2_Demo3Table.pdb
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Humanizer.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.csproj.AssemblyReference.cache
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.AssemblyInfoInputs.cache
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.AssemblyInfo.cs
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.csproj.CoreCompileInputs.cache
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets\msbuild.Day2_Demo3Table.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets\msbuild.build.Day2_Demo3Table.props
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Day2_Demo3Table.props
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Day2_Demo3Table.props
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\scopedcss\bundle\Day2_Demo3Table.styles.css
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.csproj.CopyComplete
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\refint\Day2_Demo3Table.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.pdb
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\Day2_Demo3Table.genruntimeconfig.cache
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\obj\Debug\net7.0\ref\Day2_Demo3Table.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.barcodes.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.forms.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.io.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.kernel.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.layout.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.pdfa.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.sign.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.styledxmlparser.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.svg.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.commons.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\itext.bouncy-castle-adapter.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\MailKit.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\MimeKit.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\judyh\Desktop\DMAWS\Day2_Demo3Table\Day2_Demo3Table\Day2_Demo3Table\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll

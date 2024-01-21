@@ -1,0 +1,87 @@
+﻿@model day8_demoQR.Models.QRCodeModel;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<form asp-action="Index" class="container mt-4">
+    <div class="form-group">
+        <label for="QRCodeType">Select QR Code Type</label>
+        <select asp-for="QRCodeType" class="form-control" id="QRCodeType" onchange="QRCodeTypeChange()">
+            <option value="1">SMS</option>
+            <option value="2">Email</option>
+            <option value="3">Facebook</option>
+            <option value="4">Wifi</option>
+        </select>
+    </div>
+
+    <div id="Div1" class="hideDiv form-group">
+        <div>
+            <label for="SMSPhoneNumber">Enter Phone Number:</label>
+            <input type="text" asp-for="SMSPhoneNumber" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>enter message</label>
+            <input type="text" asp-for="SMSBody" class="form-control"/>
+        </div>
+    </div>
+
+    <div id="Div2" class="hideDiv form-group">
+        <div>
+            <label>Enter Email:</label>
+            <input type="text" asp-for="ReceiverEmailAddress" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>enter subject</label>
+            <input type="text" asp-for="EmailSubject" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>enter message</label>
+            <input type="text" asp-for="EmailMessage" class="form-control"/>
+        </div>
+    </div>
+
+    <div id="Div3" class="hideDiv form-group">
+        <div>
+            <label>Enter Facbook URL:</label>
+            <input type="text" asp-for="FacebookAddress" class="form-control" />
+        </div>
+    </div>
+
+    <div id="Div4" class="hideDiv form-group">
+        <div>
+            <label>Enter Wifi name:</label>
+            <input type="text" asp-for="WifiName" class="form-control" />
+        </div>
+        <div>
+            <label>Enter Wifi password:</label>
+            <input type="text" asp-for="WifiPassword" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary my-2">Generate</button>
+    </div>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.QRImageUrl))
+{
+    <div class="container mt-4">
+        <img src="@Model.QRImageUrl" class="img-fluid" alt="QR Code Image" width="250" height="250" />
+    </div>
+}
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $(".hideDiv").hide();
+            $("#QRCodeType").trigger("change");
+        });
+
+        function QRCodeTypeChange() {
+            let qrCodeType = $("#QRCodeType").val();
+            $(".hideDiv").hide();
+            $("#Div" + qrCodeType).show();
+        }
+    </script>
+}

@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="display-4">Login</h1>
+
+@if (ViewBag.error != null)
+{
+    <div class="alert alert-danger" role="alert">
+        <h4 class="alert-heading">@ViewBag.error</h4>
+    </div>
+}
+
+<form asp-action="checkLogin">
+    <div class="mb-3">
+        <label for="id" class="form-label">ID: </label>
+        <input type="text" class="form-control" id="id" name="id">
+    </div>
+    <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <input type="password" class="form-control" id="password" name="password">
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>

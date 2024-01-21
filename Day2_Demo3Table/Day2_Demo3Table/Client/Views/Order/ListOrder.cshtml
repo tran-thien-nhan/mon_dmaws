@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Client.Models.Order>
+
+@{
+    ViewData["Title"] = "ListOrder";
+}
+
+<h1 class="display-4">ListOrder</h1>
+
+<div class="d-flex">
+    <a class="btn btn-success" asp-action="Index" asp-controller="Product">List Product</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    <a class="btn btn-info" asp-action="Details" asp-route-orderId="@item.Id">Details</a>
+                    <a class="btn btn-warning" asp-action="ExportPDF" asp-route-orderId="@item.Id">xuất PDF</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

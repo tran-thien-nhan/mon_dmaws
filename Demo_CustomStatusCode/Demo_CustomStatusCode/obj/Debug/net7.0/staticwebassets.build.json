@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X7nf11WukWRsxBPJM4op9oULxqCyOYpJ0qBu3oOoTG0=",
+  "Source": "Demo_CustomStatusCode",
+  "BasePath": "_content/Demo_CustomStatusCode",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

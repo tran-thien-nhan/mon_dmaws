@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DMAPIB6.props" />
+</Project>

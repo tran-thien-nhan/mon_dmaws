@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="day8demoQR20231230161622" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\judyh\\Desktop\\DMAWS\\day8_demoQR\\day8_demoQR\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

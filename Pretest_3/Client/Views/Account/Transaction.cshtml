@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Transaction";
+}
+
+<h1>Transaction</h1>
+@if (ViewBag.error != null)
+{
+    <div class="alert alert-danger" role="alert">
+        <h4 class="alert-heading">@ViewBag.error</h4>
+    </div>
+}
+@if (ViewBag.success != null)
+{
+    <div class="alert alert-success" role="alert">
+        <h4 class="alert-heading">@ViewBag.success</h4>
+    </div>
+}
+<h1>Balance: @Context.Session.GetString("balance")</h1>
+<div>
+    <form asp-controller="Account" asp-action="Transaction" method="post" class="d-flex">
+        <div class="mx-2">
+            <input type="text" class="form-control" name="amount" placeholder="Enter amount">
+        </div>
+        <div>
+            <input type="submit" value="withdraw" name="withdraw" class="btn btn-primary mx-2" />
+            <input type="submit" value="deposit" name="deposit" class="btn btn-success mx-2" />
+        </div>
+    </form>
+</div>
